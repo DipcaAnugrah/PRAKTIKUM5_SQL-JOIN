@@ -26,8 +26,8 @@ ada beberapa jenis JOIN dalam SQL, termasuk:
 
 ## **TUGAS PRAKTIKUM**
 
-[1. Buat Script SQL JOIN Table berdasarkan skema data diatas](#script-sql-join)
-[2. Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screeenshot yang sudah dilakukan dalam bentuk dokumen]()
+[1. Buat Script SQL JOIN Table berdasarkan skema data diatas](#script-sql-join)  
+[2. Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screeenshot yang sudah dilakukan dalam bentuk dokumen](LAPORAN%20PRAKTIKUM5.pdf)
 
 ### **SCRIPT SQL-JOIN**
 
